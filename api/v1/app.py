@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """app"""
 from flask import Flask, make_response, jsonify
